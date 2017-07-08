@@ -1,0 +1,73 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "04073365", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04073365'>04073365</a> FOX RIVER AT PRINCETON, WI</a></td></tr><tr><td>Begin date: 2001-07-01</td></tr><tr><td>End date: 2005-10-01</td></tr><tr><td>Begin date: 2009-09-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -89.133450, 43.851091 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04073462", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04073462'>04073462</a> WHITE CREEK AT SPRING GROVE ROAD NR GREEN LAKE, WI</a></td></tr><tr><td>Begin date: 1981-12-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.928446, 43.816093 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04073468", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04073468'>04073468</a> GREEN LAKE INLET AT CT HIGHWAY A NR GREEN LAKE, WI</a></td></tr><tr><td>Begin date: 1987-02-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.926779, 43.824426 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04073473", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04073473'>04073473</a> PUCHYAN RIVER DS N. LAWSON DRIVE NR GREEN LAKE, WI</a></td></tr><tr><td>Begin date: 1996-11-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.946502, 43.857481 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04073500", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04073500'>04073500</a> FOX RIVER AT BERLIN, WI</a></td></tr><tr><td>Begin date: 1898-01-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.952614, 43.953870 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04074538", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04074538'>04074538</a> SWAMP CREEK ABOVE RICE LAKE AT MOLE LAKE, WI</a></td></tr><tr><td>Begin date: 1977-05-26</td></tr><tr><td>End date: 2009-12-13</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.963725, 45.488296 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04074548", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04074548'>04074548</a> SWAMP CREEK BELOW RICE LAKE AT MOLE LAKE, WI</a></td></tr><tr><td>Begin date: 1977-06-08</td></tr><tr><td>End date: 2009-12-14</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.997892, 45.479407 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04074950", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04074950'>04074950</a> WOLF RIVER AT LANGLADE, WI</a></td></tr><tr><td>Begin date: 1980-10-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.733440, 45.189970 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04075365", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04075365'>04075365</a> EVERGREEN RIVER BLW EVERGREEN FALLS NR LANGLADE, WI</a></td></tr><tr><td>Begin date: 2002-12-01</td></tr><tr><td>End date: 2008-09-30</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.676217, 45.065810 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04077630", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04077630'>04077630</a> RED RIVER AT MORGAN ROAD NEAR MORGAN, WI</a></td></tr><tr><td>Begin date: 1992-10-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.844273, 44.898031 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "0407809265", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=0407809265'>0407809265</a> MIDDLE BRANCH EMBARRASS RIVER NEAR WITTENBERG, WI</a></td></tr><tr><td>Begin date: 1989-10-01</td></tr><tr><td>End date: 2006-09-30</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -89.118167, 44.825251 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04078500", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04078500'>04078500</a> EMBARRASS RIVER NEAR EMBARRASS, WI</a></td></tr><tr><td>Begin date: 1993-12-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.736213, 44.724702 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04079000", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04079000'>04079000</a> WOLF RIVER AT NEW LONDON, WI</a></td></tr><tr><td>Begin date: 1913-10-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.740381, 44.392203 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04082400", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04082400'>04082400</a> FOX RIVER AT OSHKOSH, WI</a></td></tr><tr><td>Begin date: 1991-10-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.540947, 44.013595 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04084445", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04084445'>04084445</a> FOX RIVER AT APPLETON, WI</a></td></tr><tr><td>Begin date: 1986-07-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.423163, 44.248042 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04084500", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04084500'>04084500</a> FOX R AT RAPIDE CROCHE DAM NEAR WRIGHTSTOWN, WI</a></td></tr><tr><td>Begin date: 1917-10-01</td></tr><tr><td>End date: 2012-03-31</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.197326, 44.317489 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04085046", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04085046'>04085046</a> APPLE CREEK AT SNIDERVILLE, WI</a></td></tr><tr><td>Begin date: 2003-10-01</td></tr><tr><td>End date:  2006-11-15</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.191215, 44.354989 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04085068", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04085068'>04085068</a> ASHWAUBENON CREEK NEAR LITTLE RAPIDS, WI</a></td></tr><tr><td>Begin date: 2004-10-01</td></tr><tr><td>End date:  2006-09-30</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.127047, 44.414157 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "040851325", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=040851325'>040851325</a> BAIRD CREEK AT SUPERIOR ROAD AT GREEN BAY, WI</a></td></tr><tr><td>Begin date: 2003-09-25</td></tr><tr><td>End date: 2007-09-01</td></tr><tr><td>Begin date: 2009-10-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -87.936212, 44.501104 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04080000", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04080000'>04080000</a> LITTLE WOLF RIVER AT ROYALTON, WI</a></td></tr><tr><td>Begin date: 1914-01-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.865384, 44.412481 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04081000", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04081000'>04081000</a> WAUPACA RIVER NEAR WAUPACA, WI</a></td></tr><tr><td>Begin date: 1916-06-28</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.995946, 44.329147 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "040851378", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=040851378'>040851378</a> EAST RIVER AT MONROE STREET AT GREEN BAY, WI</a></td></tr><tr><td>Begin date: 2003-12-16</td></tr><tr><td>End date: 2012-04-27</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.006771, 44.517215 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "040851385", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=040851385'>040851385</a> FOX RIVER AT OIL TANK DEPOT AT GREEN BAY, WI</a></td></tr><tr><td>Begin date: 1988-10-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.010104, 44.528604 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04085108", "Description": "<TABLE><TR><TD><A href='http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=04085108'>04085108</A> EAST RIVER AT CNTY TRUNK HIGHWAY ZZ NR GREENLEAF, WI</a></TD></TR><tr><td>Begin date: 2012-03-06</td></tr><tr><td>End date: Present</td></tr></TABLE>" }, "geometry": { "type": "Point", "coordinates": [ -88.093056, 44.372500 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04084911", "Description": "<TABLE><TR><TD><A HREF='http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=04084911'>04084911</A> PLUM CREEK NEAR WRIGHTSTOWN, WI</a></TD></TR><tr><td>Begin date: 2010-09-30</td></tr><tr><td>End date: Present</td></tr></TABLE>" }, "geometry": { "type": "Point", "coordinates": [ -88.171215, 44.305545 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04072150", "Description": "<table><tr><td><a href='http://waterdata.usgs.gov/nwis/nwisman/?site_no=04072150'>04072150</a> DUCK CREEK NEAR HOWARD, WI</a></td></tr><tr><td>Begin date: 1988-05-01</td></tr><tr><td>End date: Present</td></tr></table> " }, "geometry": { "type": "Point", "coordinates": [ -88.129722, 44.535833 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04084038", "Description": "<TABLE><TR><TD><A HREF='http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=04084038'>04084038</A> DE NEVEU CREEK AT E. MERRILL ST. AT FOND DU LAC, WI</a></td></tr><tr><td>Begin date: 2009-08-30</td></tr><tr><td>End date: Present</td></tr></TABLE>" }, "geometry": { "type": "Point", "coordinates": [ -88.430384, 43.780823 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04083545", "Description": "<TABLE><TR><TD><A HREF='http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=04083545'>04083545</A> FOND DU LAC RIVER AT W. ARNDT ST. AT FOND DU LAC, WI</a></td></tr><tr><td>Begin date: 2007-08-01</td></tr><tr><td>End date: 2011-10-01</td></tr></TABLE>" }, "geometry": { "type": "Point", "coordinates": [ -88.458944, 43.786389 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "434625088284900", "Description": "<TABLE><TR><TD><A HREF='http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=434625088284900'>434625088284900</A> FIRE STATION RG @ WESTERN AVENUE AT FOND DU LAC, WI</a></td></tr><tr><td>Begin date: 2009-08-30</td></tr><tr><td>End date: Present</td></tr></TABLE>" }, "geometry": { "type": "Point", "coordinates": [ -88.480385, 43.773600 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "434451088272300", "Description": "<TABLE><TR><TD><A HREF='http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=434451088272300'>434451088272300</A> RAIN GAGE AT PUMP HOUSE AT FOND DU LAC, WI</a></td></tr><tr><td>Begin date: 2009-08-30</td></tr><tr><td>End date: Present</td></tr></TABLE>" }, "geometry": { "type": "Point", "coordinates": [ -88.456495, 43.747489 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04072845", "Description": "<TABLE><TR><TD><A HREF='http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=04072845'>04072845</A> MONTELLO RIVER NEAR MONTELLO, WI</a></td></tr><tr><td>Begin date: 2007-08-01</td></tr><tr><td>End date: 2011-10-01</td></tr></TABLE>" }, "geometry": { "type": "Point", "coordinates": [ -89.365398, 43.821089 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04073466", "Description": "<TABLE><TR><TD><A HREF='http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=04073466'>04073466</A> SILVER CREEK AT SPAULDING ROAD NEAR GREEN LAKE, WI</a></td></tr><tr><td>Begin date: 2011-11-15</td></tr><tr><td>End date: Present</td></tr></TABLE>" }, "geometry": { "type": "Point", "coordinates": [ -88.908446, 43.839704 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04073970", "Description": "<TABLE><TR><TD><A HREF='http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=04073970'>04073970</A> WAUKAU CREEK NEAR OMRO, WI</a></td></tr><tr><td>Begin date: 2007-08-01</td></tr><tr><td>End date: 2011-10-01</td></tr></TABLE>" }, "geometry": { "type": "Point", "coordinates": [ -88.785556, 44.018926 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "441624088045601", "Description": "<TABLE><TR><TD><A HREF='http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=441624088045601'>441624088045601</A> GLRI EAST RIVER WATERWAY NUMBER 1 NR GREENLEAF, WI</a></TD></TR><TR><TD>Begin date: 2012-03-06</td></tr><tr><td>End date: Present</td></tr></TABLE>" }, "geometry": { "type": "Point", "coordinates": [ -88.082167, 44.273361 ] } }
+
+]
+}
